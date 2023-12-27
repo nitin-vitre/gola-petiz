@@ -1558,6 +1558,10 @@ p {
   display: flex;
 }
 
+.footer-social .tw-xm{
+  width: 15px;
+}
+
 .footer-bottom-left {
   width: 50%;
   align-items: center;
@@ -1929,6 +1933,10 @@ p {
   padding: 5px;
   transition: background-color .3s;
   display: flex;
+}
+
+.social-link .tw-x{
+  width: 14px;
 }
 
 .social-link:hover {
